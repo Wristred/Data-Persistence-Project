@@ -508,9 +508,9 @@ MonoBehaviour:
   LineCount: 6
   Ball: {fileID: 177912862}
   ScoreText: {fileID: 188020406}
+  CurrentPlayerName: {fileID: 2078529056}
+  BestPlayerName: {fileID: 2078529056}
   GameOverText: {fileID: 474497238}
-  currentPlayerName: {fileID: 2078529056}
-  bestPlayerName: {fileID: 2078529056}
 --- !u!1 &455529321
 GameObject:
   m_ObjectHideFlags: 0

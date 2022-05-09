@@ -7,7 +7,7 @@ using TMPro;
 
 public class MenuManager : MonoBehaviour
 {
-    [SerializeField] TMP_InputField playerNameInput;
+    [SerializeField] TextMeshProUGUI playerNameInput;
     public void LoadScene()
     {
         SceneManager.LoadScene(1);
